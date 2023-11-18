@@ -1,0 +1,17 @@
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\bin\Debug\netcoreapp3.1\consCommerciaux.exe
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\bin\Debug\netcoreapp3.1\consCommerciaux.deps.json
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\bin\Debug\netcoreapp3.1\consCommerciaux.runtimeconfig.json
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\bin\Debug\netcoreapp3.1\consCommerciaux.runtimeconfig.dev.json
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\bin\Debug\netcoreapp3.1\consCommerciaux.dll
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\bin\Debug\netcoreapp3.1\consCommerciaux.pdb
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\bin\Debug\netcoreapp3.1\libCommerciaux.dll
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\bin\Debug\netcoreapp3.1\libCommerciaux.pdb
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\obj\Debug\netcoreapp3.1\consCommerciaux.csproj.AssemblyReference.cache
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\obj\Debug\netcoreapp3.1\consCommerciaux.GeneratedMSBuildEditorConfig.editorconfig
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\obj\Debug\netcoreapp3.1\consCommerciaux.AssemblyInfoInputs.cache
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\obj\Debug\netcoreapp3.1\consCommerciaux.AssemblyInfo.cs
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\obj\Debug\netcoreapp3.1\consCommerciaux.csproj.CoreCompileInputs.cache
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\obj\Debug\netcoreapp3.1\consCommerciaux.csproj.CopyComplete
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\obj\Debug\netcoreapp3.1\consCommerciaux.dll
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\obj\Debug\netcoreapp3.1\consCommerciaux.pdb
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\consCommerciaux\obj\Debug\netcoreapp3.1\consCommerciaux.genruntimeconfig.cache

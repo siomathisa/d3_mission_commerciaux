@@ -1,0 +1,10 @@
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\libCommerciaux\bin\Debug\netcoreapp3.1\libCommerciaux.deps.json
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\libCommerciaux\bin\Debug\netcoreapp3.1\libCommerciaux.dll
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\libCommerciaux\bin\Debug\netcoreapp3.1\libCommerciaux.pdb
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\libCommerciaux\obj\Debug\netcoreapp3.1\libCommerciaux.csproj.AssemblyReference.cache
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\libCommerciaux\obj\Debug\netcoreapp3.1\libCommerciaux.GeneratedMSBuildEditorConfig.editorconfig
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\libCommerciaux\obj\Debug\netcoreapp3.1\libCommerciaux.AssemblyInfoInputs.cache
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\libCommerciaux\obj\Debug\netcoreapp3.1\libCommerciaux.AssemblyInfo.cs
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\libCommerciaux\obj\Debug\netcoreapp3.1\libCommerciaux.csproj.CoreCompileInputs.cache
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\libCommerciaux\obj\Debug\netcoreapp3.1\libCommerciaux.dll
+E:\SIO\__2EME_ANNEE\D3\TP3_Commerciaux\libCommerciaux\libCommerciaux\obj\Debug\netcoreapp3.1\libCommerciaux.pdb
